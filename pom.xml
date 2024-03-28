@@ -101,8 +101,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.86.113.205:8888/repository/paypal-snapshots/</url>
+	      <name>ttrail_here</name>
+	      <url>http://http://44.202.87.252:8081/repository/ttrail_here//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
