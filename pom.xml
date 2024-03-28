@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.86.113.205:8888/repository/paypal-releases/</url>
+	      <name>meven_rleases</name>
+	      <url>http://44.202.87.252:8081/repository/meven_rleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ttrail_here</name>
-	      <url>http://http://44.202.87.252:8081/repository/ttrail_here//</url>
+	      <name>maven_trail</name>
+	      <url>http://44.202.87.252:8081/repository/maven_trail/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
